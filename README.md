@@ -30,6 +30,7 @@ The goal is to create a simple, beginner-friendly, but visually meaningful analy
 
 
 **⭐ Key Insights**
+
 • Countries with higher temperature change often face more disasters.
 
 • USA, India, China, and Japan show high economic loss and disaster frequency.
@@ -40,6 +41,7 @@ The goal is to create a simple, beginner-friendly, but visually meaningful analy
 
 
 **🧠 Skills Demonstrated**
+
 • Tableau dashboard creation
 
 • Data visualization best practices
@@ -51,5 +53,7 @@ The goal is to create a simple, beginner-friendly, but visually meaningful analy
 • Analytical storytelling
 
 **🛠 Tools Used**
+
 • Tableau Desktop
+
 • Microsoft Excel (data preparation)
