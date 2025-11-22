@@ -1,8 +1,11 @@
+
 # Climate and Natural Disasters Analysis - Tableau Dashboard
 🌍 Climate & Natural Disasters Analysis (2024)
 
+
 This Tableau dashboard analyzes climate indicators and natural disaster patterns across 10 countries.
 The goal is to create a simple, beginner-friendly, but visually meaningful analytics project.
+
 
 **📊 Visualizations Included**
 
@@ -28,15 +31,23 @@ The goal is to create a simple, beginner-friendly, but visually meaningful analy
 
 **⭐ Key Insights**
 • Countries with higher temperature change often face more disasters.
+
 • USA, India, China, and Japan show high economic loss and disaster frequency.
+
 • Floods and storms dominate in several regions.
+
 • Temperature patterns vary widely across regions.
+
 
 **🧠 Skills Demonstrated**
 • Tableau dashboard creation
+
 • Data visualization best practices
+
 • Use of KPIs, maps, heatmaps, bubble charts, trend lines, scatter plots
+
 • Clean and consistent dashboard design
+
 • Analytical storytelling
 
 **🛠 Tools Used**
